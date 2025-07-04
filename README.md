@@ -31,9 +31,9 @@ time and resources, Quint can compute anything, albiet the actual coding would b
   
 
   # Requirements
-  Python 3.x
-  Quint.py is the actual code for the intepreter
-  Quint_Code.txt is the text file where you can put the code that can be run by Quint.py
+  - Python 3.x
+  - Quint.py is the actual code for the intepreter
+  - Quint_Code.txt is the text file where you can put the code that can be run by Quint.py
 
 
 # Disclaimer
