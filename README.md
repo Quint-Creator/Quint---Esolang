@@ -32,3 +32,7 @@ time and resources, Quint can compute anything, albiet the actual coding would b
 
   # Requirements
   Python 3.x
+
+
+# Disclaimer
+  Please understand that I am reletively new to coding, so if there are some optomization issues or annoying bugs, I would love to know how to improve. 
