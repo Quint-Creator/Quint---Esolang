@@ -7,6 +7,7 @@ to 255, after which it wraps around back to 0. To change a cells value, the poin
 the prompt to print out the number at a cell is given, all the cells within the column are added up and the total is printed. Quint, although simple, is Turing Complete, which means that with enough 
 time and resources, Quint can compute anything, albiet the actual coding would be a nightmare. Below are shown the keys that are used in Quint, everything else is ignored. 
 
+
 Keys:
 1 - Move Pointer Right
 2 - Move Pointer Left
