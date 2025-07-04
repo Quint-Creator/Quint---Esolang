@@ -9,14 +9,14 @@ time and resources, Quint can compute anything, albiet the actual coding would b
 
 
 Keys:
-1 - Move Pointer Right
-2 - Move Pointer Left
-3 - Move Pointer Up
-4 - Move Pointer Down
-5 - Add 1 To The Cell The Selected Cell
-6 - Subtract 1 To The Selected Cell
-7 - The Start Of A While Loop (Only runs if the cell the selected cells value isn't 0)
-8 - The End Of A While Loop
-9 - Prints Out The Sum Of All The Digits In The Column At The Selected Cell
-0 - Prints Out The ASCII Character That Corresponds To The Value In The Selected Cell
-? - Get User Input Of An Integer
+- 1 - Move Pointer Right
+- 2 - Move Pointer Left
+- 3 - Move Pointer Up
+- 4 - Move Pointer Down
+- 5 - Add 1 To The Cell The Selected Cell
+- 6 - Subtract 1 To The Selected Cell
+- 7 - The Start Of A While Loop (Only runs if the cell the selected cells value isn't 0)
+- 8 - The End Of A While Loop
+- 9 - Prints Out The Sum Of All The Digits In The Column At The Selected Cell
+- 0 - Prints Out The ASCII Character That Corresponds To The Value In The Selected Cell
+- ? - Get User Input Of An Integer
